@@ -1,2 +1,3 @@
 # MusicStudies
- Applying OOP to music theory.
+
+Applying OOP to music theory.
